@@ -32,7 +32,7 @@ conda activate my_env
 3. Run the `simmate --help` command to make sure it's installed correctly
 4. For first-time setup, initialize your local database with `simmate database reset`
 5. Run the command `simmate run-server` (and leave this command running)
-6. Go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) and you'll see you local server!
+6. Go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) and you'll see your local server!
 
 Note, this server is only accessible on your local computer. For a production-ready server, see our [website documentation](https://jacksund.github.io/simmate/simmate/website.html#running-a-production-ready-server).
 
